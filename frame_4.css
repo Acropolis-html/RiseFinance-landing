@@ -1,0 +1,131 @@
+.frame-4 {
+    width: 87,212%;
+    height: 1193px;
+    background-color: #F4F4F4;
+    padding-top: 136px;
+    padding-left: 5.15%;
+    padding-right: 7.638%;
+    padding-bottom: 272px;
+}
+
+.frame-4-text {
+    width: 100%;
+    height: 189px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin-bottom: 90px;
+}
+
+.Case-Study {
+    font-weight: 600;
+    font-size: 3.125rem;
+    line-height: 100%;
+    letter-spacing: 0px;
+    background-image: linear-gradient(90deg, #4646F9 20%,  #9130F4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Some-results {
+    color: #121139;
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 130%;
+    letter-spacing: 4%;
+}
+
+.frame-4-main-block {
+    height: 917px;
+    width: 51%;
+    background-color: #15123E;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    padding-left: 4%;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+.frame-4-main-block-text {
+    height: 100%;
+    width: 53%;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+    flex-direction: column;
+    gap: 60px;
+    position: relative;
+    z-index: 3;
+}
+
+.Coruma-Finance {
+    font-weight: 600;
+    font-size: 1.875rem;
+}
+
+.Lorem-ipsum {
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 130%;
+    letter-spacing: 4%;
+    width: 105%;
+}
+
+.frame-4-main-block-button {
+    width: 85.625%;
+    height: 72px;
+    border: 4px solid transparent;
+    border-image: linear-gradient(90deg, #812DE2, #3A49F9) 1;
+    background-color: transparent;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-size: 1.125rem;
+    cursor: pointer;
+}
+
+.frame-4-menus-container {
+    height: 468px;
+    width: 35%;
+    position: relative;
+    top: 230px;
+    right: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 65px;
+}
+
+.frame-4-menus {
+    height: 112px;
+    width: 100%;
+    border-radius: 30px;
+    border: 2px solid transparent;
+
+    background-color: #1C1A50;
+
+    background-image: 
+        linear-gradient(#1C1A50, #1C1A50),
+        linear-gradient(90deg, #812DE2 40%, #3A49F9); 
+
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.frame-4-menus-text {
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 130%;
+    letter-spacing: 4%;
+}
